@@ -1,0 +1,20 @@
+{
+  "name": "starcove-nd-atlas",
+  "version": "0.5.0",
+  "private": true,
+  "type": "module",
+  "description": "Accessible, maintainable neurodiversity encyclopedia and reviewed research digest.",
+  "scripts": {
+    "build": "node scripts/validate.mjs && node scripts/build.mjs",
+    "build:github": "node scripts/validate.mjs && SITE_TARGET=github node scripts/build.mjs",
+    "build:netlify": "node scripts/validate.mjs && SITE_TARGET=netlify node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "test": "node scripts/validate.mjs && node scripts/smoke-test.mjs",
+    "dev": "node scripts/build.mjs && python scripts/dev-server.py --directory dist --port 8080",
+    "research:tag": "node scripts/auto-tag-research.mjs",
+    "research:collect": "node scripts/collect-research.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
