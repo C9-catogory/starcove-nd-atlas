@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="calm" data-preset="default" data-motion="system" data-anchor="off">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <base href="__BASE_PATH__">
+  <meta name="description" content="__SITE_TAGLINE__">
+  <title>StarCove ND 百科</title>
+  <link rel="stylesheet" href="assets/css/site.css">
+  <script defer src="assets/config.js"></script>
+  <script defer src="assets/content-data.js"></script>
+  <script defer src="assets/search-data.js"></script>
+  <script type="module" src="assets/js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <a class="skip-link skip-link--search" href="#global-search">跳到搜索</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="./" data-route="/" aria-label="StarCove ND 百科首页">
+        <span class="brand-mark" aria-hidden="true">✦</span>
+        <span><strong>StarCove ND 百科</strong><small>了解自己 · 身体医学 · 支持 · 研究</small></span>
+      </a>
+      <form class="header-search" id="header-search-form" role="search">
+        <label class="sr-only" for="global-search">搜索症状、功能、术语、研究或资源</label>
+        <input id="global-search" name="q" type="search" autocomplete="off" placeholder="搜索：听力正常但听不清、湿疹、POTS、MMN…">
+        <button type="submit">搜索</button>
+      </form>
+      <nav class="desktop-nav" aria-label="主要导航">
+        <a href="./" data-route="/">首页</a>
+        <a href="./" data-route="/start">第0章</a>
+        <a href="./" data-route="/medical">医学地图</a>
+        <a href="./" data-route="/topics">百科</a>
+        <a href="./" data-route="/research">研究</a>
+        <a href="./" data-route="/resources">资源</a>
+      </nav>
+      <div class="header-actions">
+        <button class="icon-button" id="open-settings" type="button" aria-label="打开阅读设置" aria-haspopup="dialog">Aa</button>
+        <button class="icon-button mobile-only" id="open-mobile-nav" type="button" aria-label="打开导航菜单" aria-haspopup="dialog">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="status-banner" id="status-banner" role="status" aria-live="polite" hidden></div>
+  <main id="main" tabindex="-1">
+    <section class="startup-card" role="status" aria-live="polite">
+      <h1>正在载入 StarCove ND 百科</h1>
+      <p>若页面长期停留在这里，请查看 GitHub Actions 的构建日志或确认文件已完整部署。</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div><strong>StarCove ND 百科</strong><p>__SITE_TAGLINE__</p></div>
+    <nav aria-label="页脚导航">
+      <a href="./" data-route="/about">关于与编辑原则</a>
+      <a href="content-audit.json">内容审核报告</a>
+      <button type="button" class="link-button" id="export-data-footer">导出个人数据</button>
+    </nav>
+  </footer>
+
+  <dialog id="settings-dialog" class="dialog settings-dialog" aria-labelledby="settings-title">
+    <form method="dialog" class="dialog-shell">
+      <header class="dialog-header">
+        <div><p class="eyebrow">无障碍阅读</p><h2 id="settings-title">Aa 阅读设置</h2></div>
+        <button class="icon-button" value="close" aria-label="关闭阅读设置">×</button>
+      </header>
+      <div class="dialog-body">
+        <fieldset>
+          <legend>快速预设</legend>
+          <div class="preset-grid">
+            <button type="button" data-preset="default"><strong>默认宁静</strong><span>平衡的信息密度</span></button>
+            <button type="button" data-preset="spacious"><strong>宽松阅读</strong><span>大字、宽行距、窄正文</span></button>
+            <button type="button" data-preset="paper"><strong>暖纸阅读</strong><span>暖白背景、低眩光</span></button>
+            <button type="button" data-preset="low-stim"><strong>低刺激</strong><span>少阴影、少图标、无动画</span></button>
+            <button type="button" data-preset="night"><strong>柔和夜间</strong><span>深灰表面、柔和文字</span></button>
+            <button type="button" data-preset="contrast"><strong>高对比</strong><span>明确边界与焦点</span></button>
+          </div>
+        </fieldset>
+
+        <details open>
+          <summary>字体与版面</summary>
+          <div class="settings-form-grid">
+            <label>中文字体<select id="setting-cn-font"><option value="system-sans">系统无衬线</option><option value="source-sans">思源黑体优先</option><option value="simhei">黑体</option><option value="kaiti">楷体（短文）</option></select></label>
+            <label>英文字体<select id="setting-en-font"><option value="arial">Arial / Verdana</option><option value="trebuchet">Trebuchet</option><option value="georgia">Georgia</option><option value="atkinson">Atkinson（已安装时）</option><option value="lexend">Lexend（已安装时）</option><option value="opendyslexic">OpenDyslexic（已安装时）</option></select></label>
+            <label>字号 <output id="font-size-output">18px</output><input id="setting-font-size" type="range" min="14" max="30" step="1"></label>
+            <label>行距 <output id="line-height-output">1.75</output><input id="setting-line-height" type="range" min="1.25" max="2.4" step="0.05"></label>
+            <label>字距 <output id="letter-spacing-output">0.01em</output><input id="setting-letter-spacing" type="range" min="0" max="0.1" step="0.005"></label>
+            <label>段距 <output id="paragraph-gap-output">1em</output><input id="setting-paragraph-gap" type="range" min="0.5" max="2.5" step="0.1"></label>
+            <label>正文列宽 <output id="column-width-output">76ch</output><input id="setting-column-width" type="range" min="42" max="100" step="2"></label>
+          </div>
+        </details>
+
+        <details>
+          <summary>主题、视觉锚点与动态</summary>
+          <div class="settings-form-grid">
+            <label>主题<select id="setting-theme"><option value="calm">宁静彩色</option><option value="paper">纸质书</option><option value="dark">柔和深色</option><option value="mono">黑白</option><option value="contrast">高对比</option></select></label>
+            <label>中文视觉锚点<select id="setting-anchor"><option value="off">关闭</option><option value="paragraph">段首1–2字</option><option value="sentence">句首1–2字</option><option value="logic">逻辑词</option><option value="mixed">混合</option></select></label>
+            <label>英文锚点<select id="setting-english-anchor"><option value="off">关闭</option><option value="initial">单词首字母</option><option value="bionic">单词前半部分</option></select></label>
+            <label>动态效果<select id="setting-motion"><option value="system">跟随系统</option><option value="reduce">减少动态</option><option value="full">完整动态</option></select></label>
+            <label class="check-row"><input id="setting-emoji" type="checkbox">显示装饰性Emoji</label>
+            <label class="check-row"><input id="setting-shadow" type="checkbox">显示卡片阴影</label>
+          </div>
+        </details>
+
+        <details>
+          <summary>阅读尺与聚光</summary>
+          <div class="settings-form-grid">
+            <label>辅助层<select id="setting-focus-mode"><option value="off">关闭</option><option value="ruler">阅读尺</option><option value="spotlight">聚光区域</option><option value="tint">彩色覆膜</option></select></label>
+            <label>辅助颜色<input id="setting-focus-color" type="color"></label>
+            <label>阅读尺高度 <output id="focus-height-output">88px</output><input id="setting-focus-height" type="range" min="36" max="220" step="4"></label>
+            <label>遮罩透明度 <output id="mask-opacity-output">45%</output><input id="setting-mask-opacity" type="range" min="0" max="80" step="5"></label>
+          </div>
+          <p class="field-help">阅读尺跟随鼠标或触摸位置；按 Esc 可快速关闭。</p>
+        </details>
+
+        <fieldset>
+          <legend>设置和个人数据</legend>
+          <p class="field-help">导出内容包括阅读设置、收藏、笔记和功能画像，不包含PDF、EPUB或其他原始文件。</p>
+          <div class="button-row">
+            <button type="button" id="reset-settings">恢复默认设置</button>
+            <button type="button" id="export-data">导出JSON</button>
+            <label class="file-button">导入JSON<input type="file" id="import-data" accept="application/json,.json"></label>
+          </div>
+        </fieldset>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="mobile-nav-dialog" class="dialog mobile-nav-dialog" aria-labelledby="mobile-nav-title">
+    <form method="dialog" class="dialog-shell">
+      <header class="dialog-header"><h2 id="mobile-nav-title">导航</h2><button class="icon-button" value="close" aria-label="关闭导航">×</button></header>
+      <nav class="mobile-nav" aria-label="移动端导航">
+        <a href="./" data-route="/">首页</a><a href="./" data-route="/start">第0章</a><a href="./" data-route="/profile">功能画像</a><a href="./" data-route="/medical">医学地图</a><a href="./" data-route="/topics">百科目录</a><a href="./" data-route="/research">研究速递</a><a href="./" data-route="/resources">资源与工具</a><a href="./" data-route="/favorites">收藏与笔记</a>
+      </nav>
+    </form>
+  </dialog>
+
+  <div id="reading-overlay" class="reading-overlay" hidden aria-hidden="true"><div class="reading-window"></div></div>
+  <div id="toast" class="toast" role="status" aria-live="polite" aria-atomic="true" hidden></div>
+  <noscript><div class="startup-error"><h1>需要启用JavaScript</h1><p>本站依赖JavaScript完成搜索、路由和阅读设置。</p></div></noscript>
+</body>
+</html>

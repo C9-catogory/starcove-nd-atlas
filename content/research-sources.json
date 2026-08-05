@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "lookbackDays": 14,
+  "maxPerQuery": 80,
+  "queries": [
+    {
+      "id": "core-autism",
+      "label": "ASD核心期刊与主题",
+      "query": "(autism[Title/Abstract] OR autistic[Title/Abstract]) AND (2020:3000[dp])"
+    },
+    {
+      "id": "adhd-nd",
+      "label": "ADHD与神经发展",
+      "query": "(ADHD[Title/Abstract] OR neurodevelopmental[Title/Abstract]) AND (2020:3000[dp])"
+    },
+    {
+      "id": "sensory-body",
+      "label": "感官与身体功能",
+      "query": "((autism[Title/Abstract] OR ADHD[Title/Abstract]) AND (sensory OR interoception OR sleep OR pain OR autonomic OR allergy))"
+    }
+  ],
+  "journalAllowlist": [
+    "Autism Research",
+    "Autism",
+    "Molecular Autism",
+    "Journal of Autism and Developmental Disorders",
+    "Autism in Adulthood",
+    "Nature Neuroscience",
+    "Nature Human Behaviour",
+    "Nature Mental Health",
+    "Molecular Psychiatry",
+    "Translational Psychiatry",
+    "Nature Communications",
+    "Communications Psychology",
+    "Scientific Reports"
+  ],
+  "note": "自动收集只写入候选收件箱，不生成医学结论，也不自动公开。"
+}

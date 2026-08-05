@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "resources-1",
+    "title": "中文社群/工具",
+    "icon": "🧭",
+    "items": [
+      {
+        "name": "NeuroXYZ",
+        "desc": "神经多样性探索平台：开放自填工具、Wiki、资源入口。",
+        "url": "https://neuroxyz.cn/",
+        "tags": [
+          "中文",
+          "自填工具"
+        ],
+        "id": "resource-b4e1be859850",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Qingshan Neuro",
+        "desc": "青衫 Neuro：面向神经多样性个体的非营利支持入口。",
+        "url": "https://qingshanasd.cn/",
+        "tags": [
+          "中文",
+          "社群"
+        ],
+        "id": "resource-921215cb9803",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "中文 ND 搜索入口",
+        "desc": "搜索中文神经多样性、AuDHD、自闭症、ADHD、OT、感官支持等资料。",
+        "url": "https://www.google.com/search?q=%E7%A5%9E%E7%BB%8F%E5%A4%9A%E6%A0%B7%E6%80%A7+AuDHD+%E8%87%AA%E9%97%AD%E7%97%87+ADHD+OT+%E6%84%9F%E5%AE%98",
+        "tags": [
+          "搜索"
+        ],
+        "id": "resource-6ff60df7bc2f",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      }
+    ]
+  },
+  {
+    "id": "resources-2",
+    "title": "国际 ND 资源",
+    "icon": "🌍",
+    "items": [
+      {
+        "name": "Neurodiversity Hub",
+        "desc": "为学生、家长、雇主、大学等整理的神经多样性资源。",
+        "url": "https://www.neurodiversityhub.org/resources",
+        "tags": [
+          "资源库"
+        ],
+        "id": "resource-45de136edff2",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "ASAN",
+        "desc": "Autistic Self Advocacy Network，自闭者自我倡导组织。",
+        "url": "https://autisticadvocacy.org/",
+        "tags": [
+          "倡导"
+        ],
+        "id": "resource-986d13117610",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "AWN",
+        "desc": "Autistic Women & Nonbinary Network，面向自闭女性、女孩和非二元群体的资源与社群。",
+        "url": "https://awnnetwork.org/resource-library/",
+        "tags": [
+          "社群",
+          "资源"
+        ],
+        "id": "resource-79f6ea27077e",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "NeuroClastic",
+        "desc": "自闭/神经多样性作者和社群文章平台，适合看 lived experience。",
+        "url": "https://neuroclastic.com/",
+        "tags": [
+          "文章",
+          "社群"
+        ],
+        "id": "resource-126ae2d9df64",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      }
+    ]
+  },
+  {
+    "id": "resources-3",
+    "title": "研究/医学平台",
+    "icon": "🔎",
+    "items": [
+      {
+        "name": "PubMed",
+        "desc": "生物医学文献检索，适合医学和共病排查。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=autism+ADHD+neurodiversity+sensory+processing",
+        "tags": [
+          "医学"
+        ],
+        "id": "resource-6d964c07e636",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "PubMed Central",
+        "desc": "NIH/NLM 的免费生物医学全文档案。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/?term=autism+ADHD+neurodiversity",
+        "tags": [
+          "开放全文"
+        ],
+        "id": "resource-edd4c615397e",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Google Scholar",
+        "desc": "跨学科找论文、书籍章节、引用和综述。",
+        "url": "https://scholar.google.com/scholar?q=neurodiversity+autism+ADHD+occupational+therapy",
+        "tags": [
+          "学术"
+        ],
+        "id": "resource-6ac7d6519ea0",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Semantic Scholar",
+        "desc": "AI 辅助科学文献发现，适合追踪相关论文。",
+        "url": "https://www.semanticscholar.org/search?q=neurodiversity%20autism%20ADHD",
+        "tags": [
+          "AI检索"
+        ],
+        "id": "resource-11c6108d78fb",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      }
+    ]
+  },
+  {
+    "id": "resources-4",
+    "title": "书籍/图书平台",
+    "icon": "📚",
+    "items": [
+      {
+        "name": "Open Library",
+        "desc": "开放、可编辑的图书目录，可检索和借阅部分电子书。",
+        "url": "https://openlibrary.org/search?q=neurodiversity+autism+ADHD",
+        "tags": [
+          "图书馆"
+        ],
+        "id": "resource-1dfd89b2cd37",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Google Books",
+        "desc": "检索书籍、预览、目录和版本信息。",
+        "url": "https://books.google.com/books?q=neurodiversity+autism+ADHD+occupational+therapy",
+        "tags": [
+          "书籍检索"
+        ],
+        "id": "resource-89893ed31f0f",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Internet Archive Books",
+        "desc": "开放档案中的图书、资料和历史文本入口。",
+        "url": "https://archive.org/details/books?query=neurodiversity+autism+ADHD",
+        "tags": [
+          "开放档案"
+        ],
+        "id": "resource-3b759211be7c",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      }
+    ]
+  },
+  {
+    "id": "resources-5",
+    "title": "手工/兴趣/文化",
+    "icon": "🧶",
+    "items": [
+      {
+        "name": "特殊兴趣研究搜索",
+        "desc": "检索特殊兴趣、幸福感、学习和社交连接研究。",
+        "url": "https://scholar.google.com/scholar?q=special+interests+subjective+wellbeing+autistic+adults",
+        "tags": [
+          "特殊兴趣"
+        ],
+        "id": "resource-710c0719c553",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "钩织/针织与注意研究",
+        "desc": "检索手工、注意网络、压力和心理健康资料。",
+        "url": "https://scholar.google.com/scholar?q=crochet+knitting+attention+stress+wellbeing+study",
+        "tags": [
+          "手工"
+        ],
+        "id": "resource-591bc7c0ac30",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "ND 作品角色搜索",
+        "desc": "查找自闭/ADHD/神经多样性角色与媒体呈现讨论。",
+        "url": "https://www.google.com/search?q=autistic+ADHD+neurodivergent+characters+movies+TV+shows+representation",
+        "tags": [
+          "作品"
+        ],
+        "id": "resource-716df6afbdf7",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      }
+    ]
+  },
+  {
+    "id": "resources-6",
+    "title": "语言学习/低语言工具",
+    "icon": "🔤",
+    "items": [
+      {
+        "name": "Comprehensible Input Search",
+        "desc": "用“可理解输入”寻找更低压力的语言学习方法。",
+        "url": "https://www.google.com/search?q=comprehensible+input+language+learning+ADHD+autism",
+        "tags": [
+          "language"
+        ],
+        "id": "resource-8ce3649f69c0",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Dyslexia Reading Support Search",
+        "desc": "查找阅读障碍、朗读、字体、分块阅读和学习支持。",
+        "url": "https://www.google.com/search?q=dyslexia+reading+support+adults+ADHD+autism",
+        "tags": [
+          "reading"
+        ],
+        "id": "resource-b26f5c0f2e63",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Plain Language Search",
+        "desc": "查找清晰语言、低语言设计和认知无障碍指南。",
+        "url": "https://www.google.com/search?q=plain+language+cognitive+accessibility+guidelines",
+        "tags": [
+          "accessibility"
+        ],
+        "id": "resource-7716af6c1fd6",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      }
+    ]
+  },
+  {
+    "id": "resources-7",
+    "title": "个人兴趣实验室/创作学习",
+    "icon": "✨",
+    "items": [
+      {
+        "name": "Blender Official Tutorials",
+        "desc": "Blender 官方教程入口，适合建模、渲染、材质、动画入门。",
+        "url": "https://www.blender.org/support/tutorials/",
+        "tags": [
+          "3D",
+          "Blender"
+        ],
+        "id": "resource-1526ec4c1095",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Blender Manual",
+        "desc": "Blender 官方手册，适合查工具和概念。",
+        "url": "https://docs.blender.org/manual/en/latest/index.html",
+        "tags": [
+          "manual",
+          "render"
+        ],
+        "id": "resource-fc02b9e1dcad",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "OpenCV Camera Calibration & 3D Reconstruction",
+        "desc": "OpenCV 官方相机模型、标定和3D重建文档。",
+        "url": "https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html",
+        "tags": [
+          "vision",
+          "geometry"
+        ],
+        "id": "resource-9e0cbc2c5bdb",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "p5.js Tutorials",
+        "desc": "友好的创意编程和生成艺术入门。",
+        "url": "https://p5js.org/tutorials/",
+        "tags": [
+          "creative coding"
+        ],
+        "id": "resource-527d68299e62",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Khan Academy JS Drawing & Animation",
+        "desc": "用 JavaScript 做绘画和动画的交互式入门。",
+        "url": "https://www.khanacademy.org/computing/computer-programming/programming",
+        "tags": [
+          "coding",
+          "drawing"
+        ],
+        "id": "resource-167392cf5ead",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "MDN JavaScript Guide",
+        "desc": "JavaScript 官方级参考和学习入口。",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "tags": [
+          "JavaScript"
+        ],
+        "id": "resource-fdfaed976966",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Autodesk Fusion Self-Paced Learning",
+        "desc": "CAD/建模的自学路径，适合参数化和工程建模。",
+        "url": "https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion",
+        "tags": [
+          "CAD",
+          "3D"
+        ],
+        "id": "resource-06c49bad6f5d",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Tilly and the Buttons",
+        "desc": "清晰步骤的初学者友好缝纫与服装纸样入口。",
+        "url": "https://tillyandthebuttons.com/",
+        "tags": [
+          "sewing"
+        ],
+        "id": "resource-4f3c03be8db1",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Fashionary",
+        "desc": "服装设计、速写本、工具书和款式资料。",
+        "url": "https://fashionary.org/collections/all-products",
+        "tags": [
+          "fashion"
+        ],
+        "id": "resource-b029975033bd",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Polycam Free 3D Tools",
+        "desc": "摄影测量、3D扫描、Gaussian Splatting 等工具入口。",
+        "url": "https://poly.cam/tools",
+        "tags": [
+          "3D scan"
+        ],
+        "id": "resource-a2ae31b245b3",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Scratch Foundation",
+        "desc": "用故事、游戏和动画学习创造性编程。",
+        "url": "https://www.scratchfoundation.org/",
+        "tags": [
+          "creative coding"
+        ],
+        "id": "resource-70cdf268b6a7",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "King Arthur Baking Guides",
+        "desc": "烘焙入门和食物科学友好的配方/指南入口。",
+        "url": "https://www.kingarthurbaking.com/learn",
+        "tags": [
+          "baking"
+        ],
+        "id": "resource-e9872f73b3c8",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      }
+    ]
+  },
+  {
+    "id": "resources-8",
+    "title": "视觉学习/游戏/科幻收藏",
+    "icon": "🌌",
+    "items": [
+      {
+        "name": "3Blue1Brown",
+        "desc": "视觉化数学、物理、神经网络与线性代数，非常适合图像化理解。",
+        "url": "https://www.3blue1brown.com/",
+        "tags": [
+          "visual math"
+        ],
+        "id": "resource-744a6b42080d",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "3Blue1Brown YouTube",
+        "desc": "Grant Sanderson 的数学可视化频道。",
+        "url": "https://www.youtube.com/@3blue1brown",
+        "tags": [
+          "video"
+        ],
+        "id": "resource-feb62384b1d2",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Manim Community",
+        "desc": "制作数学动画的 Python 引擎，适合想做解释视频/动态图的人。",
+        "url": "https://www.manim.community/",
+        "tags": [
+          "animation"
+        ],
+        "id": "resource-f04c2de37cab",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Google Machine Learning Crash Course",
+        "desc": "Google 的机器学习入门，包含动画、交互可视化和练习。",
+        "url": "https://developers.google.com/machine-learning/crash-course",
+        "tags": [
+          "AI"
+        ],
+        "id": "resource-7d73cabd8b50",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "DeepLearning.AI Short Courses",
+        "desc": "AI/提示词/Agent/开发等短课入口，适合小块学习。",
+        "url": "https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses",
+        "tags": [
+          "AI"
+        ],
+        "id": "resource-9e63ee2ca739",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "The Coding Train",
+        "desc": "创意编程、p5.js、可视化与趣味项目。",
+        "url": "https://thecodingtrain.com/",
+        "tags": [
+          "creative coding"
+        ],
+        "id": "resource-13b66e18a188",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Observable",
+        "desc": "互动 JavaScript notebook，适合数据可视化和知识原型。",
+        "url": "https://observablehq.com/",
+        "tags": [
+          "visualization"
+        ],
+        "id": "resource-aa8162963492",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "VisuAlgo",
+        "desc": "用动画学习数据结构和算法。",
+        "url": "https://visualgo.net/",
+        "tags": [
+          "algorithms"
+        ],
+        "id": "resource-6f9e62a0e870",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "D3.js",
+        "desc": "网页数据可视化库，适合做自定义互动图。",
+        "url": "https://d3js.org/",
+        "tags": [
+          "data viz"
+        ],
+        "id": "resource-63c4d080670e",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Shadertoy",
+        "desc": "GLSL shader/程序化图像社区，适合渲染和视觉实验。",
+        "url": "https://www.shadertoy.com/",
+        "tags": [
+          "shader"
+        ],
+        "id": "resource-5cf2ecb37cb4",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "LearnOpenGL",
+        "desc": "OpenGL 图形学教程，适合渲染、相机、光照学习。",
+        "url": "https://learnopengl.com/",
+        "tags": [
+          "graphics"
+        ],
+        "id": "resource-ce65a1dcfbe1",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Desmos",
+        "desc": "图形计算器，适合函数、几何和动态可视化。",
+        "url": "https://www.desmos.com/calculator",
+        "tags": [
+          "math"
+        ],
+        "id": "resource-f5e36ba28284",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "GeoGebra",
+        "desc": "几何、函数、3D 图形和数学可视化工具。",
+        "url": "https://www.geogebra.org/",
+        "tags": [
+          "geometry"
+        ],
+        "id": "resource-b5381603bc3b",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Lushfoil Photography Sim",
+        "desc": "宁静摄影探索游戏。低刺激/视觉恢复友好。",
+        "url": "https://lushfoil.com/",
+        "tags": [
+          "calm game"
+        ],
+        "id": "resource-2427442047cc",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Monument Valley",
+        "desc": "视觉错觉与空间解谜，整体较温和。",
+        "url": "https://www.monumentvalleygame.com/",
+        "tags": [
+          "puzzle"
+        ],
+        "id": "resource-f5e9477e1c7b",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Rusty Lake",
+        "desc": "超现实解谜。备注：有恐怖、诡异、血腥/不安元素，情绪敏感时谨慎。",
+        "url": "https://www.rustylake.com/",
+        "tags": [
+          "warning"
+        ],
+        "id": "resource-b68fcf0f2697",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "J Perm Cubing",
+        "desc": "魔方教程，适合公式卡和可视化练习。",
+        "url": "https://jperm.net/",
+        "tags": [
+          "cube"
+        ],
+        "id": "resource-15e985dd73a9",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "csTimer",
+        "desc": "魔方计时器。注意：别让计时变成压力源。",
+        "url": "https://cstimer.net/",
+        "tags": [
+          "cube"
+        ],
+        "id": "resource-2fd703ae696b",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Online Go Server",
+        "desc": "在线围棋平台，可下棋、观战、学习。",
+        "url": "https://online-go.com/",
+        "tags": [
+          "go"
+        ],
+        "id": "resource-ff4cb4a292ec",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Sensei's Library",
+        "desc": "围棋知识百科。",
+        "url": "https://senseis.xmp.net/",
+        "tags": [
+          "go"
+        ],
+        "id": "resource-d40cfde5fc4c",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Greg Egan",
+        "desc": "格雷格·伊根个人网页。硬科幻/数学/意识/物理方向，概念密度高。",
+        "url": "https://www.gregegan.net/",
+        "tags": [
+          "sci-fi"
+        ],
+        "id": "resource-df6043a45943",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Star Trek Official",
+        "desc": "星际迷航官方站。未来主义、共同体、差异与探索主题。",
+        "url": "https://www.startrek.com/",
+        "tags": [
+          "sci-fi"
+        ],
+        "id": "resource-d1f6d103286b",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Doctor Who - BBC",
+        "desc": "神秘博士官方入口。备注：部分剧集有恐怖/怪物/情绪冲击。",
+        "url": "https://www.bbc.co.uk/doctorwho",
+        "tags": [
+          "sci-fi"
+        ],
+        "id": "resource-cff2bec87925",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "BoJack Horseman - Netflix",
+        "desc": "马男波杰克。备注：抑郁、成瘾、创伤、自毁主题很重，情绪低落时谨慎。",
+        "url": "https://www.netflix.com/title/70300800",
+        "tags": [
+          "warning"
+        ],
+        "id": "resource-1112168b0af0",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Rick and Morty - Adult Swim",
+        "desc": "瑞克和莫蒂。备注：成人内容、黑色幽默、混乱/虚无感较强。",
+        "url": "https://www.adultswim.com/videos/rick-and-morty",
+        "tags": [
+          "warning"
+        ],
+        "id": "resource-93482f411ad9",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      }
+    ]
+  },
+  {
+    "id": "resources-9",
+    "title": "合法免费书库/开放知识平台",
+    "icon": "📚",
+    "items": [
+      {
+        "name": "Open Library",
+        "desc": "开放可编辑图书目录，可借阅部分电子书；适合建立书籍入口。",
+        "url": "https://openlibrary.org/",
+        "tags": [
+          "library"
+        ],
+        "id": "resource-696b067d9163",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Project Gutenberg",
+        "desc": "公版书电子书库，可在线阅读或下载 EPUB/Kindle。",
+        "url": "https://www.gutenberg.org/",
+        "tags": [
+          "public domain"
+        ],
+        "id": "resource-a1bed618a451",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Standard Ebooks",
+        "desc": "重新排版校对的公版书，格式更现代、更适合阅读。",
+        "url": "https://standardebooks.org/",
+        "tags": [
+          "public domain"
+        ],
+        "id": "resource-dc410748cc9c",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Internet Archive Texts",
+        "desc": "互联网档案馆文本/书籍集合，含大量可借阅或可访问材料。",
+        "url": "https://archive.org/details/texts",
+        "tags": [
+          "archive"
+        ],
+        "id": "resource-efdf31a11a30",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Directory of Open Access Books",
+        "desc": "开放获取学术书目录，适合找合法学术书。",
+        "url": "https://www.doabooks.org/",
+        "tags": [
+          "open access"
+        ],
+        "id": "resource-42af457f8c05",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Directory of Open Access Journals",
+        "desc": "开放获取期刊目录，适合找合法论文入口。",
+        "url": "https://doaj.org/",
+        "tags": [
+          "open access"
+        ],
+        "id": "resource-48cbba7f83a3",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "PubMed Central",
+        "desc": "免费生物医学全文档案，适合医学和神经科学主题。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/",
+        "tags": [
+          "medical"
+        ],
+        "id": "resource-88defeb0875b",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "arXiv",
+        "desc": "数学、物理、计算机科学等预印本平台。",
+        "url": "https://arxiv.org/",
+        "tags": [
+          "preprint"
+        ],
+        "id": "resource-66a7df6ef5ae",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "Google Books",
+        "desc": "图书搜索与预览入口，适合查目录、简介、版本和引用。",
+        "url": "https://books.google.com/",
+        "tags": [
+          "book search"
+        ],
+        "id": "resource-715a47302939",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      },
+      {
+        "name": "WorldCat",
+        "desc": "查找附近图书馆馆藏。",
+        "url": "https://search.worldcat.org/",
+        "tags": [
+          "library"
+        ],
+        "id": "resource-58d5a4e94c4b",
+        "language": "中文",
+        "cost": "未知/请查看网站",
+        "registration": "请查看网站",
+        "lastChecked": "2026-08-05",
+        "reviewStatus": "link-migrated"
+      }
+    ]
+  }
+]

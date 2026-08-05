@@ -1,0 +1,163 @@
+[
+  {
+    "id": "autonomic-circulation",
+    "order": 1,
+    "title": "自主神经与循环",
+    "icon": "⚡",
+    "color": "#1b8a83",
+    "summary": "站立、心率、血压、体温和脑灌注相关问题。",
+    "topicIds": [
+      "ans",
+      "pots"
+    ],
+    "planned": [
+      "体位性低血压",
+      "晕厥与脱水",
+      "不耐热"
+    ]
+  },
+  {
+    "id": "endocrine-metabolic-genetic",
+    "order": 2,
+    "title": "内分泌、代谢与遗传",
+    "icon": "🧬",
+    "color": "#397d6b",
+    "summary": "激素、代谢、电解质和遗传性疾病的独立排查。",
+    "topicIds": [
+      "cah"
+    ],
+    "planned": [
+      "甲状腺功能",
+      "肾上腺功能不足",
+      "血糖与代谢",
+      "贫血与营养缺乏"
+    ]
+  },
+  {
+    "id": "allergy-immune-skin",
+    "order": 3,
+    "title": "过敏、免疫与皮肤",
+    "icon": "🧴",
+    "color": "#27896f",
+    "summary": "皮肤屏障、湿疹、接触反应、风团和多系统过敏样发作。",
+    "topicIds": [
+      "skin",
+      "atopic_dermatitis",
+      "contact_dermatitis",
+      "urticaria",
+      "dyshidrotic_eczema",
+      "mcas"
+    ],
+    "planned": [
+      "脂溢性皮炎",
+      "唇炎",
+      "胆碱能性荨麻疹",
+      "虫咬反应"
+    ]
+  },
+  {
+    "id": "ent-hearing-sleep",
+    "order": 4,
+    "title": "耳鼻喉、听觉与睡眠",
+    "icon": "👂",
+    "color": "#237f91",
+    "summary": "鼻腔、耳压、听力、声音耐受、睡眠和嗅味觉。",
+    "topicIds": [
+      "allergic_rhinitis",
+      "sinusitis",
+      "eustachian_tube_dysfunction",
+      "central_auditory_processing",
+      "hyperacusis",
+      "auditory_sensitivity",
+      "sleep_circadian",
+      "sleep_apnea"
+    ],
+    "planned": [
+      "耳鸣",
+      "中耳积液",
+      "鼻后滴漏",
+      "嗅觉与味觉差异"
+    ]
+  },
+  {
+    "id": "gut-nutrition",
+    "order": 5,
+    "title": "胃肠、进食与营养",
+    "icon": "🫙",
+    "color": "#4b8b55",
+    "summary": "腹痛、排便、进食选择、营养和脑肠相互作用。",
+    "topicIds": [
+      "gut"
+    ],
+    "planned": [
+      "反流",
+      "食物选择性",
+      "营养缺乏",
+      "乳糖与其他不耐受"
+    ]
+  },
+  {
+    "id": "pain-vestibular",
+    "order": 6,
+    "title": "疼痛、偏头痛与前庭",
+    "icon": "🌀",
+    "color": "#49759a",
+    "summary": "慢性疼痛、头痛、眩晕、平衡和感觉运动负荷。",
+    "topicIds": [
+      "pain",
+      "migraine",
+      "proprio_vestibular"
+    ],
+    "planned": [
+      "良性阵发性位置性眩晕",
+      "持续性姿势感知性眩晕",
+      "颞下颌问题"
+    ]
+  },
+  {
+    "id": "joints-connective",
+    "order": 7,
+    "title": "关节、肌肉与结缔组织",
+    "icon": "🦴",
+    "color": "#5c7d6d",
+    "summary": "关节过度活动、姿势负荷、肌肉疲劳和康复。",
+    "topicIds": [
+      "eds"
+    ],
+    "planned": [
+      "过度活动谱系",
+      "肌筋膜疼痛",
+      "物理治疗与活动节奏"
+    ]
+  },
+  {
+    "id": "vision-eye",
+    "order": 8,
+    "title": "视觉与眼部负荷",
+    "icon": "👁️",
+    "color": "#4b73a7",
+    "summary": "屈光、干眼、畏光、双眼协调和屏幕环境。",
+    "topicIds": [
+      "vision"
+    ],
+    "planned": [
+      "干眼",
+      "双眼视觉",
+      "视觉雪与偏头痛鉴别"
+    ]
+  },
+  {
+    "id": "menstrual-hormonal",
+    "order": 9,
+    "title": "月经、激素与生殖健康",
+    "icon": "◌",
+    "color": "#8a6688",
+    "summary": "周期、疼痛、激素变化与功能波动。",
+    "topicIds": [],
+    "planned": [
+      "痛经与子宫内膜异位症",
+      "经前期症状",
+      "周期与药物反应"
+    ]
+  }
+]

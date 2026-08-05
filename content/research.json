@@ -1,0 +1,254 @@
+[
+  {
+    "id": "kim-2026-asymmetry",
+    "year": 2026,
+    "type": "研究文章",
+    "studyType": "多中心静息态 fMRI 聚类研究",
+    "title": "Functional Brain Asymmetry Reveals Heterogeneous Subtypes in Autism Spectrum Disorder",
+    "zhTitle": "功能性脑不对称揭示自闭症谱系中的异质亚型",
+    "authors": "Chae Yeon Kim, Sunghun Kim, Bo-yong Park",
+    "journal": "Autism Research",
+    "doi": "https://doi.org/10.1002/aur.70304",
+    "population": "自闭症与典型发展参与者的多中心脑影像数据；研究以功能连接度中心性的不对称指标进行聚类。",
+    "summary": "研究使用半球间功能不对称指标识别自闭症群体内部差异，得到三个具有不同感觉运动、额顶控制和默认模式网络特征的聚类。",
+    "findings": [
+      "三个聚类呈现不同的左右侧化和功能连接模式。",
+      "感觉运动、额顶和默认模式网络在亚型之间差异突出。",
+      "其中一个聚类在研究样本中表现出更高的 ADOS 总分、沟通和社会分数。"
+    ],
+    "limitations": [
+      "多中心数据虽经协调处理，仍可能残留站点差异。",
+      "研究未能确定这些模式在不同发展阶段如何变化。",
+      "最佳聚类数量仍包含一定方法选择性，需要纵向和外部复制。"
+    ],
+    "clinicalApplicability": "不能用来给个人进行“脑型”自测或临床分型；更适合作为理解 ASD 异质性的研究证据。",
+    "relatedTopicIds": [
+      "sensory_processing",
+      "salience",
+      "dmn",
+      "executive",
+      "monotropism"
+    ],
+    "publishedDate": "2026",
+    "datePrecision": "year",
+    "reviewStatus": "reviewed",
+    "publicationStatus": "published",
+    "manualTags": [
+      "ASD",
+      "脑影像",
+      "异质性",
+      "亚型",
+      "默认模式网络"
+    ],
+    "autoTags": [
+      "脑影像",
+      "ASD"
+    ],
+    "pmid": null,
+    "abstractImage": null,
+    "sourceUrl": "https://doi.org/10.1002/aur.70304"
+  },
+  {
+    "id": "chelef-2026-leannet",
+    "year": 2026,
+    "type": "研究文章",
+    "studyType": "静息态 fMRI、图学习与机器学习分类",
+    "title": "Lean-NET-Based Local Brain Connectome Analysis for Autism Spectrum Disorder Classification",
+    "zhTitle": "基于 Lean-NET 的局部脑连接组分析用于自闭症谱系分类",
+    "authors": "Aoumria Chelef et al.",
+    "journal": "Bioengineering",
+    "doi": "https://doi.org/10.3390/bioengineering13010099",
+    "population": "ABIDE II 的单中心 NYU 静息态 fMRI 数据。",
+    "summary": "研究用稀疏、个体化的图学习方法构建功能连接网络，再以局部节点指标和 SVM 区分 ASD 与典型发展组。",
+    "findings": [
+      "局部图指标在该数据和流程中表现出分类能力。",
+      "研究强调节点层面的连接差异和可解释性，而不是只看全脑汇总指标。"
+    ],
+    "limitations": [
+      "仅使用单中心数据，外部有效性有限。",
+      "结果依赖脑区分区方案、预处理和特征选择。",
+      "分类准确率不能直接等同于临床诊断效度。"
+    ],
+    "clinicalApplicability": "目前属于研究方法，不应作为个人诊断测试或常规临床检查。",
+    "relatedTopicIds": [
+      "screening",
+      "sensory_processing",
+      "executive",
+      "working_memory",
+      "salience"
+    ],
+    "publishedDate": "2026",
+    "datePrecision": "year",
+    "reviewStatus": "reviewed",
+    "publicationStatus": "published",
+    "manualTags": [
+      "ASD",
+      "脑连接组",
+      "机器学习",
+      "研究方法",
+      "静息态fMRI"
+    ],
+    "autoTags": [
+      "机器学习",
+      "脑影像",
+      "ASD"
+    ],
+    "pmid": null,
+    "abstractImage": null,
+    "sourceUrl": "https://doi.org/10.3390/bioengineering13010099"
+  },
+  {
+    "id": "mazer-2026-mmn",
+    "year": 2026,
+    "type": "研究文章",
+    "studyType": "EEG/ERP 主动奇异刺激实验",
+    "title": "Analysis of Task Demand Effects on Visual and Auditory Mismatch Negativity (MMN) Across Autistic and Schizotypal Traits",
+    "zhTitle": "任务需求对自闭特质和分裂型特质相关视觉与听觉失匹配负波的影响",
+    "authors": "Prune Mazer et al.",
+    "journal": "European Journal of Neuroscience",
+    "doi": "https://doi.org/10.1111/ejn.70490",
+    "population": "122 名社区参与者，完成听觉和视觉主动 oddball 任务并记录 EEG。",
+    "summary": "任务难度升高时，听觉和视觉 MMN 幅度下降，同时反应更慢、准确率降低，提示感觉变化检测会受到任务负荷和注意资源影响。",
+    "findings": [
+      "高难度条件下听觉和视觉 MMN 均减小。",
+      "高难度条件下反应时间增加、准确率下降。",
+      "自闭特质维度与 MMN 的关联有限且不一致。"
+    ],
+    "limitations": [
+      "采用主动任务，MMN 中可能混入注意和反应过程。",
+      "每个条件的偏差刺激数量较低，可能影响信噪比。",
+      "缺乏适应控制，不能完全分离预测误差与感觉适应。",
+      "简单刺激任务与真实复杂环境不能直接等同。"
+    ],
+    "clinicalApplicability": "不能根据 MMN 判断个人是否自闭；可用于理解任务负荷如何改变感觉和注意加工。",
+    "relatedTopicIds": [
+      "predictive_processing",
+      "cognitive_load",
+      "sensory_processing",
+      "auditory_sensitivity",
+      "salience"
+    ],
+    "publishedDate": "2026",
+    "datePrecision": "year",
+    "reviewStatus": "reviewed",
+    "publicationStatus": "published",
+    "manualTags": [
+      "ASD",
+      "EEG",
+      "MMN",
+      "感官",
+      "预测加工",
+      "任务负荷"
+    ],
+    "autoTags": [
+      "感官",
+      "ASD",
+      "EEG/ERP"
+    ],
+    "pmid": null,
+    "abstractImage": null,
+    "sourceUrl": "https://doi.org/10.1111/ejn.70490"
+  },
+  {
+    "id": "maes-2026-nimetox",
+    "year": 2026,
+    "type": "综述文章",
+    "studyType": "神经免疫—代谢—氧化应激系统综述",
+    "title": "Unifying the Hallmarks of Major Depression Through Neuroimmune–Metabolic–Oxidative (NIMETOX) Dysregulation",
+    "zhTitle": "以神经免疫—代谢—氧化失调统一理解重性抑郁障碍特征",
+    "authors": "Michael Maes et al.",
+    "journal": "Cellular & Molecular Immunology",
+    "doi": "https://doi.org/10.1038/s41423-026-01448-1",
+    "population": "总结约三十年重性抑郁障碍临床研究中的免疫、代谢、脂质和氧化应激证据。",
+    "summary": "综述提出 NIMETOX 系统框架，强调抑郁相关生物变化是多个免疫、代谢和氧化通路的组合，而不是由单个炎症指标解释。",
+    "findings": [
+      "讨论免疫炎症反应、代谢改变、氧化应激和神经保护下降之间的相互作用。",
+      "强调不同抑郁表型具有明显异质性。",
+      "组合指标和深度表型可能比单一生物标志物更有解释力。"
+    ],
+    "limitations": [
+      "这是机制整合框架，不能证明所有抑郁都由同一生物路径导致。",
+      "许多指标受疾病表型、药物、身体疾病和研究方法影响。",
+      "不支持根据单个化验值自行判断“炎症型抑郁”。"
+    ],
+    "clinicalApplicability": "适合作为研究框架和文献导航；具体检查与治疗仍需依据临床评估。",
+    "relatedTopicIds": [
+      "stress_cycle",
+      "sleep_circadian",
+      "pain",
+      "gut",
+      "energy_accounting"
+    ],
+    "publishedDate": "2026",
+    "datePrecision": "year",
+    "reviewStatus": "reviewed",
+    "publicationStatus": "published",
+    "manualTags": [
+      "抑郁",
+      "神经免疫",
+      "代谢",
+      "氧化应激",
+      "综述"
+    ],
+    "autoTags": [
+      "身体医学",
+      "综述"
+    ],
+    "pmid": null,
+    "abstractImage": null,
+    "sourceUrl": "https://doi.org/10.1038/s41423-026-01448-1"
+  },
+  {
+    "id": "alves-2026-ent",
+    "year": 2026,
+    "type": "综述文章",
+    "studyType": "耳鼻喉、感觉与睡眠综述",
+    "title": "When the Ears Speak: Otorhinolaryngological Clues in Autism Spectrum Disorder",
+    "zhTitle": "当耳朵说话：自闭症谱系障碍中的耳鼻喉线索",
+    "authors": "Anita Silva Brunel Alves et al.",
+    "journal": "Current Developmental Disorders Reports",
+    "doi": "https://doi.org/10.1007/s40474-026-00355-4",
+    "population": "以儿童 ASD 文献为主，综述睡眠、听觉、嗅觉、味觉及进食相关表现。",
+    "summary": "综述主张把睡眠、听觉、嗅味觉和进食差异放进更广的感觉整合与多学科评估框架，而不是视为彼此孤立的问题。",
+    "findings": [
+      "睡眠问题、听觉高敏及嗅味觉差异在 ASD 文献中较常见。",
+      "听觉困难可能涉及中枢听觉加工，即使外周听力没有明显损失。",
+      "进食选择性可能与感觉加工、营养和行为因素共同相关。"
+    ],
+    "limitations": [
+      "综述以儿童研究为主，不能直接外推到所有成人。",
+      "不同研究的定义、样本和测量差异较大。",
+      "相关性不等于这些问题是 ASD 的特异性生物标志。"
+    ],
+    "clinicalApplicability": "支持更完整的听力、睡眠、耳鼻喉和进食评估，但不能用这些表现单独诊断 ASD。",
+    "relatedTopicIds": [
+      "auditory_sensitivity",
+      "sensory_processing",
+      "sleep_circadian",
+      "gut",
+      "interoception"
+    ],
+    "publishedDate": "2026",
+    "datePrecision": "year",
+    "reviewStatus": "reviewed",
+    "publicationStatus": "published",
+    "manualTags": [
+      "ASD",
+      "耳鼻喉",
+      "听觉",
+      "睡眠",
+      "嗅味觉",
+      "综述"
+    ],
+    "autoTags": [
+      "儿童",
+      "感官",
+      "睡眠",
+      "综述",
+      "ASD"
+    ],
+    "pmid": null,
+    "abstractImage": null,
+    "sourceUrl": "https://doi.org/10.1007/s40474-026-00355-4"
+  }
+]

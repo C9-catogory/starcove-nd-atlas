@@ -1,0 +1,279 @@
+[
+  {
+    "label": "👂 感官过载",
+    "topicIds": [
+      "sensory_processing",
+      "sensory_integration",
+      "auditory_sensitivity",
+      "vision",
+      "skin"
+    ]
+  },
+  {
+    "label": "❓ 焦虑/不确定",
+    "topicIds": [
+      "predictive_processing",
+      "iu",
+      "active_inference",
+      "cbt",
+      "act"
+    ]
+  },
+  {
+    "label": "🎯 分心/走神",
+    "topicIds": [
+      "executive",
+      "working_memory",
+      "cognitive_load",
+      "dmn",
+      "dopamine_reward"
+    ]
+  },
+  {
+    "label": "▶️ 启动困难",
+    "topicIds": [
+      "dopamine_reward",
+      "executive",
+      "body_doubling",
+      "externalization",
+      "task_analysis"
+    ]
+  },
+  {
+    "label": "🔄 切换困难",
+    "topicIds": [
+      "monotropism",
+      "predictive_processing",
+      "time_blindness",
+      "window_tolerance"
+    ]
+  },
+  {
+    "label": "❤️ 情绪爆发",
+    "topicIds": [
+      "dbt",
+      "window_tolerance",
+      "polyvagal",
+      "somatic",
+      "crisis_plan"
+    ]
+  },
+  {
+    "label": "🪫 长期疲惫/Burnout",
+    "topicIds": [
+      "autistic_burnout",
+      "energy_accounting",
+      "spoon",
+      "rest_design",
+      "sleep_circadian"
+    ]
+  },
+  {
+    "label": "⚡ 头晕/心悸/站立难受",
+    "topicIds": [
+      "pots",
+      "ans",
+      "sleep_circadian",
+      "care_plan"
+    ]
+  },
+  {
+    "label": "🦴 关节痛/姿势痛",
+    "topicIds": [
+      "eds",
+      "pain",
+      "proprio_vestibular",
+      "task_analysis"
+    ]
+  },
+  {
+    "label": "🌿 肠胃不适",
+    "topicIds": [
+      "gut",
+      "mcas",
+      "ans",
+      "symptom_tracking"
+    ]
+  },
+  {
+    "label": "🧴 皮肤/过敏/组胺",
+    "topicIds": [
+      "skin",
+      "mcas",
+      "sensory_processing",
+      "symptom_tracking"
+    ]
+  },
+  {
+    "label": "👁️ 眼睛干涩/畏光",
+    "topicIds": [
+      "vision",
+      "migraine",
+      "sensory_processing",
+      "cognitive_load"
+    ]
+  },
+  {
+    "label": "💬 社交疲惫/被误解",
+    "topicIds": [
+      "double_empathy",
+      "communication",
+      "boundaries",
+      "masking",
+      "social_support"
+    ]
+  },
+  {
+    "label": "💼 工作学习困难",
+    "topicIds": [
+      "work_accommodations",
+      "udl",
+      "second_brain",
+      "executive",
+      "time_blindness"
+    ]
+  },
+  {
+    "label": "🎵 声音/音乐调节",
+    "topicIds": [
+      "music_therapy",
+      "binaural",
+      "rhythm_entrainment",
+      "auditory_sensitivity"
+    ]
+  },
+  {
+    "label": "🧭 不知道从哪开始",
+    "topicIds": [
+      "screening",
+      "symptom_tracking",
+      "care_plan",
+      "ot",
+      "affirming"
+    ]
+  },
+  {
+    "label": "🌐 找中文社群/资源",
+    "topicIds": [
+      "cn_community_tools",
+      "free_screeners",
+      "social_support",
+      "advocacy"
+    ]
+  },
+  {
+    "label": "🧪 找免费筛选工具",
+    "topicIds": [
+      "free_screeners",
+      "screening",
+      "symptom_tracking",
+      "care_plan"
+    ]
+  },
+  {
+    "label": "🔎 查研究/找书",
+    "topicIds": [
+      "research_platforms",
+      "book_platforms",
+      "screening",
+      "affirming"
+    ]
+  },
+  {
+    "label": "🧶 手工/重复动作调节",
+    "topicIds": [
+      "fiber_crafts",
+      "stimming_play",
+      "rhythm_entrainment",
+      "special_interests_healing"
+    ]
+  },
+  {
+    "label": "🧩 特殊兴趣/心流恢复",
+    "topicIds": [
+      "special_interests_healing",
+      "creative_flow",
+      "monotropism",
+      "energy_accounting"
+    ]
+  },
+  {
+    "label": "🎬 找 ND 作品/角色",
+    "topicIds": [
+      "nd_media_characters",
+      "special_interests_healing",
+      "double_empathy",
+      "masking"
+    ]
+  },
+  {
+    "label": "语言/阅读/表达困难",
+    "topicIds": [
+      "language_learning",
+      "dyslexia_reading",
+      "plain_language"
+    ]
+  },
+  {
+    "label": "特殊兴趣/创作恢复",
+    "topicIds": [
+      "special_interests_healing",
+      "fiber_crafts",
+      "fashion_sewing_lab",
+      "drawing_visual_thinking",
+      "creative_coding_lab",
+      "modeling_rendering"
+    ]
+  },
+  {
+    "label": "服装/绘画/编程/烘焙/建模",
+    "topicIds": [
+      "fashion_sewing_lab",
+      "drawing_visual_thinking",
+      "creative_coding_lab",
+      "baking_structure",
+      "modeling_rendering"
+    ]
+  },
+  {
+    "label": "多视角几何/渲染/视觉",
+    "topicIds": [
+      "multiview_geometry",
+      "modeling_rendering",
+      "drawing_visual_thinking",
+      "creative_coding_lab"
+    ]
+  },
+  {
+    "label": "知识收集/个人图谱",
+    "topicIds": [
+      "knowledge_collecting",
+      "special_interests_healing",
+      "plain_language"
+    ]
+  },
+  {
+    "label": "游戏/解谜/注意力恢复",
+    "topicIds": [
+      "games_attention_recovery",
+      "logic_board_music_games",
+      "rhythm_entrainment"
+    ]
+  },
+  {
+    "label": "数学/物理/AI可视化",
+    "topicIds": [
+      "visual_math_ai_lab",
+      "visual_programming_tools",
+      "multiview_geometry",
+      "creative_coding_lab"
+    ]
+  },
+  {
+    "label": "科幻/世界观/角色作品",
+    "topicIds": [
+      "scifi_storyworlds",
+      "knowledge_collecting"
+    ]
+  }
+]

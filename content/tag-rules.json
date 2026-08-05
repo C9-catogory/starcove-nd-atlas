@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "tag": "ASD",
+      "keywords": [
+        "autism",
+        "autistic",
+        "asd",
+        "自闭症"
+      ]
+    },
+    {
+      "tag": "ADHD",
+      "keywords": [
+        "adhd",
+        "attention-deficit",
+        "hyperactivity",
+        "注意缺陷"
+      ]
+    },
+    {
+      "tag": "感官",
+      "keywords": [
+        "sensory",
+        "auditory",
+        "visual",
+        "olfactory",
+        "gustatory",
+        "感官",
+        "听觉",
+        "视觉",
+        "嗅觉",
+        "味觉"
+      ]
+    },
+    {
+      "tag": "睡眠",
+      "keywords": [
+        "sleep",
+        "insomnia",
+        "circadian",
+        "melatonin",
+        "睡眠",
+        "失眠",
+        "昼夜节律"
+      ]
+    },
+    {
+      "tag": "脑影像",
+      "keywords": [
+        "fmri",
+        "magnetic resonance",
+        "connectome",
+        "brain network",
+        "脑影像",
+        "连接组"
+      ]
+    },
+    {
+      "tag": "EEG/ERP",
+      "keywords": [
+        "eeg",
+        "erp",
+        "mismatch negativity",
+        "mmn",
+        "脑电"
+      ]
+    },
+    {
+      "tag": "机器学习",
+      "keywords": [
+        "machine learning",
+        "classifier",
+        "svm",
+        "deep learning",
+        "机器学习",
+        "分类器"
+      ]
+    },
+    {
+      "tag": "成人",
+      "keywords": [
+        "adult",
+        "adulthood",
+        "成年人",
+        "成人"
+      ]
+    },
+    {
+      "tag": "儿童",
+      "keywords": [
+        "child",
+        "children",
+        "pediatric",
+        "儿童",
+        "青少年"
+      ]
+    },
+    {
+      "tag": "综述",
+      "keywords": [
+        "review",
+        "systematic review",
+        "meta-analysis",
+        "综述",
+        "荟萃分析"
+      ]
+    },
+    {
+      "tag": "支持与干预",
+      "keywords": [
+        "intervention",
+        "therapy",
+        "support",
+        "accommodation",
+        "treatment",
+        "支持",
+        "干预",
+        "治疗"
+      ]
+    },
+    {
+      "tag": "身体医学",
+      "keywords": [
+        "autonomic",
+        "gastrointestinal",
+        "immune",
+        "allergy",
+        "pain",
+        "migraine",
+        "medical",
+        "自主神经",
+        "胃肠",
+        "免疫",
+        "过敏",
+        "疼痛"
+      ]
+    }
+  ]
+}
